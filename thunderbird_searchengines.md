@@ -1,4 +1,4 @@
-#   Procedure for Editing Search Engine in Thunderbird 60+
+#   Procedure for Editing Search Engines in Thunderbird 60+
 ##  Tested Using
 *   Thunderbird 60.3.1 (32-bit) Release Channel
 *   Firefox 62.0b9 (64-bit)
